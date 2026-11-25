@@ -1,22 +1,31 @@
 fileFormatVersion: 2
-guid: f541c999fdb9b074ea144a16c318957c
+guid: a98dbf8d3fcbcd548a2dc8195b22c3d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6646658494262055245
-    second: nivel1_olvidado_sprites_grandes_0
+      213: -1153663464897270488
+    second: nivel2_fungi_sprites_grandes_0
   - first:
-      213: 7821825541147608813
-    second: nivel1_olvidado_sprites_grandes_1
+      213: -5275815406345448412
+    second: nivel2_fungi_sprites_grandes_1
   - first:
-      213: -4210502693167932645
-    second: nivel1_olvidado_sprites_grandes_2
+      213: 5993518483681622713
+    second: nivel2_fungi_sprites_grandes_2
   - first:
-      213: 3785608059484467449
-    second: nivel1_olvidado_sprites_grandes_3
+      213: -4795162417879653433
+    second: nivel2_fungi_sprites_grandes_3
   - first:
-      213: -6830135756390748037
-    second: nivel1_olvidado_sprites_grandes_4
+      213: -8284284518306612219
+    second: nivel2_fungi_sprites_grandes_4
+  - first:
+      213: -3499757042712391357
+    second: nivel2_fungi_sprites_grandes_5
+  - first:
+      213: -6176255188973993143
+    second: nivel2_fungi_sprites_grandes_6
+  - first:
+      213: -6509636198207325151
+    second: nivel2_fungi_sprites_grandes_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -151,111 +160,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nivel1_olvidado_sprites_grandes_0
+      name: nivel2_fungi_sprites_grandes_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 8
-        width: 32
-        height: 63
+        x: 7
+        y: 7
+        width: 34
+        height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3be6d22a05352c3a0800000000000000
-      internalID: -6646658494262055245
+      spriteID: 82da378e03d5dffe0800000000000000
+      internalID: -1153663464897270488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nivel1_olvidado_sprites_grandes_1
+      name: nivel2_fungi_sprites_grandes_1
       rect:
         serializedVersion: 2
-        x: 48
-        y: 8
-        width: 32
-        height: 63
+        x: 47
+        y: 7
+        width: 34
+        height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de64e2b43e4bc8c60800000000000000
-      internalID: 7821825541147608813
+      spriteID: 4241f3427d988c6b0800000000000000
+      internalID: -5275815406345448412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nivel1_olvidado_sprites_grandes_2
+      name: nivel2_fungi_sprites_grandes_2
       rect:
         serializedVersion: 2
-        x: 91
-        y: 8
-        width: 59
-        height: 89
+        x: 88
+        y: 7
+        width: 65
+        height: 93
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1b56e7db1a4195c0800000000000000
-      internalID: -4210502693167932645
+      spriteID: 9bab49e4e414d2350800000000000000
+      internalID: 5993518483681622713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nivel1_olvidado_sprites_grandes_3
+      name: nivel2_fungi_sprites_grandes_3
       rect:
         serializedVersion: 2
-        x: 161
-        y: 8
-        width: 31
+        x: 165
+        y: 25
+        width: 10
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f07d6c197e298430800000000000000
-      internalID: 3785608059484467449
+      spriteID: 7c3eaf1df29247db0800000000000000
+      internalID: -4795162417879653433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nivel1_olvidado_sprites_grandes_4
+      name: nivel2_fungi_sprites_grandes_4
       rect:
         serializedVersion: 2
-        x: 202
-        y: 8
-        width: 29
-        height: 57
+        x: 174
+        y: 9
+        width: 14
+        height: 80
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b70b2a897bb7631a0800000000000000
-      internalID: -6830135756390748037
+      spriteID: 50cf0146f1f480d80800000000000000
+      internalID: -8284284518306612219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel2_fungi_sprites_grandes_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d4fc138d5e6fc0800000000000000
+      internalID: -3499757042712391357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel2_fungi_sprites_grandes_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943ca0bf0a8894aa0800000000000000
+      internalID: -6176255188973993143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel2_fungi_sprites_grandes_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cf3d40e5029a5a0800000000000000
+      internalID: -6509636198207325151
       vertices: []
       indices: 
       edges: []
@@ -264,7 +339,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 221f5e79d5c956a4181f75a9ed61c3d6
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -272,15 +347,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":3.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":15.0,"y":15.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      nivel1_olvidado_sprites_grandes_0: -6646658494262055245
-      nivel1_olvidado_sprites_grandes_1: 7821825541147608813
-      nivel1_olvidado_sprites_grandes_2: -4210502693167932645
-      nivel1_olvidado_sprites_grandes_3: 3785608059484467449
-      nivel1_olvidado_sprites_grandes_4: -6830135756390748037
+      nivel2_fungi_sprites_grandes_0: -1153663464897270488
+      nivel2_fungi_sprites_grandes_1: -5275815406345448412
+      nivel2_fungi_sprites_grandes_2: 5993518483681622713
+      nivel2_fungi_sprites_grandes_3: -4795162417879653433
+      nivel2_fungi_sprites_grandes_4: -8284284518306612219
+      nivel2_fungi_sprites_grandes_5: -3499757042712391357
+      nivel2_fungi_sprites_grandes_6: -6176255188973993143
+      nivel2_fungi_sprites_grandes_7: -6509636198207325151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
